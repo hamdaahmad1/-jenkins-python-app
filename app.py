@@ -1,10 +1,7 @@
 
 def main():
-    print("hello from jenkins")
-
+    print("Hello Jenkins, code updated automatically!")
 
 if __name__ == "__main__":
     main()
-
-
 
